@@ -5,7 +5,7 @@
 
 # Indice
 1. [Premessa](#1-Premessa)
-2. [Predisposizione dell'ambiente per OPAC2](#2-Predisposizione-dell'ambiente-per-OPAC2)
+2. [Predisposizione dell'ambiente per OPAC2](#2-Predisposizione-dellambiente-per-OPAC2)
 3. [Creazione del database Postgres opacDB](#3-Creazione-del-database-Postgres-opacDB)
 4. [Caricamento dei core di Solr](#4-Caricamento-dei-core-di-Solr)
 5. [Importazione dei dati delle biblioteche](#5-Importazione-dei-dati-delle-biblioteche)
