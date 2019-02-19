@@ -30,7 +30,7 @@ INSERT INTO public.applicativo_servizi (id, cod_appl, cod_polo, descr, link_fiss
 
 
 --Accesso mlol
-INSERT INTO public.accesso_mlol (id, cod_polo, api_key, portal_id) VALUES(NEXTVAL('accesso_mlol_id_seq'), 'XXX', '3142a09b83934908a34b98eaf027c52d', '121');
+INSERT INTO public.accesso_mlol (id, cod_polo, api_key, portal_id) VALUES(NEXTVAL('accesso_mlol_id_seq'), 'XXX', 'accesso_mlol_api_key', 'mlol_portal_id');
 
 --materialeinventariale
 
